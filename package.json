@@ -1,0 +1,15 @@
+{
+  "name": "invitation",
+  "version": "1.0.0",
+  "description": "বিরল উপজেলা ছাত্রকল্যাণ সমিতি | আমন্ত্রণপত্র — হাবিপ্রবি",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "node -e \"console.log('Build completed')\"",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
